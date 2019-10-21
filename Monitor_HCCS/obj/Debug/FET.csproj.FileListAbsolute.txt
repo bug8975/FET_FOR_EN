@@ -1,0 +1,4 @@
+F:\WorkSpace\FET_FOR_EN\Monitor_HCCS\bin\Debug\Monitor_HCCS.exe.config
+F:\WorkSpace\FET_FOR_EN\Monitor_HCCS\obj\Debug\FET.csproj.ResolveComReference.cache
+F:\WorkSpace\FET_FOR_EN\Monitor_HCCS\obj\Debug\Monitor_HCCS.exe
+F:\WorkSpace\FET_FOR_EN\Monitor_HCCS\obj\Debug\Monitor_HCCS.pdb
